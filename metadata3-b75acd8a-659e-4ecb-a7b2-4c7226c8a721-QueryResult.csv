@@ -9,7 +9,7 @@ TRASH_DAY,The trash day of the service request location
 HEAVY_TRASH_DAY,The heavy trash day of the service request location
 RECYCLE_DAY,The recycling day of the service request location
 DEPARTMENT,"The department the service request is directed to (could be virtual department, e.g. 311 Help Line)"
-DIVISION,The division the service request is directed to (e.g. Traffic Operations, Community Services)
+DIVISION,The division the service request is directed to (e.g. Traffic Operations or Community Services)
 SR_TYPE,The service request type
 QUEUE,The queue the service request is put into
 SLA,The service level agreement days. The number of days the department has from the create date to address the service request
