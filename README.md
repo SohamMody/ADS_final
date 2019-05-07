@@ -8,7 +8,7 @@ To attain this, we created a counterfactual environment at least for the variabl
 
 More study could continue this line of inquiry and pinpoint what aspects of the city were most impacted by the hurricane by running similar analysis on specific service request types. Also, a spatial exploration of the same could be undertaken, and Houston, which is divided into 4 quadrants, would make a good playground for this.
 
-I worked on this as the project for the subject Applied Data Science while doing my masters at New York University. I did this project along with Timur Mukhtarov, Davey Ives and Imran Khan.
+This project has been done by Davey Ives, Imran Khan, Soham Mody ad Timur Mukhtarov. We worked on this as the project for the subject Applied Data Science while doing our masters at New York University.
 
 The link for the raw dataset can be found in [311-Public-Data-Extract-Harvey.csv](https://github.com/SohamMody/Quantifying-Social-Resilience-in-Houston-Post-Harvey/blob/master/311-Public-Data-Extract-Harvey.csv).The metadata for the dataset is available in [metadata.csv](https://github.com/SohamMody/Quantifying-Social-Resilience-in-Houston-Post-Harvey/blob/master/metadata.csv).
 
