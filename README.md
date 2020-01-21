@@ -1,4 +1,4 @@
-# Quantifying Social Resilience in Houston, Texas Post Harvey
+# Quantifying Social Resilience in Houston, Texas Post Hurricane Harvey
 
 In this project, we aimed to quantify the ability of cities and their inhabitants to continue functioning after the passing of a natural disaster. Specifically, we wanted to investigate Hurricane Harvey’s impact on Houston’s 311 service requests. Our objective for this project was twofold: 
 1. How did Hurricane Harvey impact the frequency of 311 service requests and 
@@ -12,4 +12,4 @@ This project has been done by Davey Ives, Imran Khan, Soham Mody ad Timur Mukhta
 
 The link for the raw dataset can be found in [311-Public-Data-Extract-Harvey.csv](https://github.com/SohamMody/Quantifying-Social-Resilience-in-Houston-Post-Harvey/blob/master/311-Public-Data-Extract-Harvey.csv).The metadata for the dataset is available in [metadata.csv](https://github.com/SohamMody/Quantifying-Social-Resilience-in-Houston-Post-Harvey/blob/master/metadata.csv).
 
-The entire code done in Python using Jupyter can be found in [Final_Code.ipynb](https://github.com/SohamMody/Quantifying-Social-Resilience-in-Houston-Post-Harvey/blob/master/Final_Code.ipynb). This includes all the parts of the project from getting the data in to preprocessing it to the modelling and finally, the analysis based on the results of the models. I apologize for the code being slightly messy.
+The entire code done in Python using Jupyter can be found in [Final_Code.ipynb](https://github.com/SohamMody/Quantifying-Social-Resilience-in-Houston-Post-Harvey/blob/master/Final_Code.ipynb). This includes all the parts of the project from getting the data in to preprocessing it to the modelling and finally, the analysis based on the results of the models.
